@@ -1,0 +1,22 @@
+version: 0.2
+            
+phases:
+  install:
+    commands:
+      - echo install
+  pre_build:
+    commands:
+      - echo pre build
+  build:
+    commands:
+      - echo build
+      - find ./app/webpage/portal/production -type f -name '*.html' -exec sed -i 's/COMPANY_TOKEN/CloudAcademy Demo/g' {} \;
+  post_build:
+    commands:
+      - echo post build
+artifacts:
+  files:
+    - appspec.yml
+    - scripts/**/*
+    - webpage/**/*
+  base-directory: app
