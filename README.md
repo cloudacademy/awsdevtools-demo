@@ -1,6 +1,10 @@
 ## CloudAcademy
 
-AWS Developer Tools Demo
+AWS Developer Services for CI/CD Demo
+
+![AWS Developer Services for CI/CD Screenshot](/doc/awscicdlearningpath.png)
+
+https://cloudacademy.com/learning-paths/aws-developer-services-for-cicd-199/
 
 ### Web App: Portal Dashboard Template
 
