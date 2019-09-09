@@ -20,11 +20,11 @@ Demonstration of AWS Developer Tools:
 
 ### CodeBuild Tooling
 
-Contains an buildspec.yml file for building the web application frontend with AWS CodeBuild.
+Contains a *buildspec.yml* file which is used for *building* the web application frontend with AWS CodeBuild.
 
 ### CodeDeploy Tooling
 
-Contains an appspec.yml file and scripts folder for deploying web application frontend with AWS CodeDeploy.
+Contains an *appspec.yml* file and scripts folder which are used for *deploying* the web application frontend with AWS CodeDeploy.
 
 ## License
 
