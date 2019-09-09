@@ -4,6 +4,8 @@ AWS Developer Tools Demo
 
 ### Web App: Portal Dashboard Template
 
+![Portal Screenshot](/doc/portal.png)
+
 Demonstration of AWS Developer Tools:
 * CodeCommit
 * CodeBuild
