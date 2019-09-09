@@ -1,6 +1,6 @@
 ## CloudAcademy
 
-AWS Developer Services for CI/CD Demo
+This repository contains the sample source code as used and demonstrated within the CloudAcademy "AWS Developer Services for CI/CD" Learning Path:
 
 ![AWS Developer Services for CI/CD Screenshot](/doc/awscicdlearningpath.png)
 
